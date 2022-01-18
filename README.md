@@ -2,6 +2,6 @@
 
 <h1>- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="badge"></h1>
 
-<h1>- 📫 How to reach me: <a href="https://www.instagram.com/2alij/"><img src="./img/instagram.png"> </a>  <a href="https://soundcloud.com/ali-jahankah"><img src="./img/soundcloud (1).png"> </a></h1>
+<h1>- 📫 How to reach me: <a href="https://www.instagram.com/2alij/"><img src="./img/instagram.png" width="50px"> </a>  <a href="https://soundcloud.com/ali-jahankah"><img src="./img/soundcloud (1).png" width="50px"> </a></h1>
 
 <h1>- ⚡ Things that I've learnt so far:</h1>
