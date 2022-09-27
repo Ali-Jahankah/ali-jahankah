@@ -1,4 +1,4 @@
-<img src="./img/git.jpg" alt="Banner" width="100%">
+<img src="https://www.canva.com/design/DAFNchmXWcQ/gnOl2G1rL9V7HBqtGMIhuQ/edit?utm_content=DAFNchmXWcQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner" width="100%">
 
 <h1>- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="badge"></h1>
 
