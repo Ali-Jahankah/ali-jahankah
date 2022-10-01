@@ -1,6 +1,6 @@
 <img src="./img/git.png" alt="Banner" width="100%">
 
-<h1>- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="badge"></h1>
+<h1>- 🌱 I’m currently learning ADVANCED <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="badge"></h1>
 
 <h1> Social: ---- <a href="https://www.instagram.com/2alij/"><img src="./img/instagram.png" width="50px"> </a> ----  <a href="https://soundcloud.com/ali-jahankah"><img src="./img/soundcloud (1).png" width="50px"> </a></h1>
 
