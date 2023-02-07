@@ -15,3 +15,4 @@
    <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="icon">
   
   <img src="https://aleen42.github.io/badges/src/photoshop.svg" alt="icon"></h1>
+  <img src="./img/skull.png" alt="Banner" width="100%">
