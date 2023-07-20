@@ -1,6 +1,6 @@
 <p align="center"><img src="./img/2.png" alt="Banner" width="40%" align="center"></p>
 
-<h1 align="center"> $\textcolor{yellow}{Currently \  learning \  AWS \ Cloud \  Practitioner \ }$ </h1> 
+<p align="center"><img src="./img/4.jpg" alt="Banner" width="100%" align="center"></p>
 
 <h1 align="center">
  <a href="https://www.instagram.com/2alij/">
