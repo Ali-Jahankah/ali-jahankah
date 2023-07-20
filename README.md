@@ -1,4 +1,5 @@
-<img src="./img/git.png" alt="Banner" width="100%">
+<img src="./img/2.png" alt="Banner" width="100%">
+<img src="./img/1.jpg" alt="Banner" width="100%">
 
 <h1>- 🌱 currently learning AWS Cloud Practitioner</h1>
 
