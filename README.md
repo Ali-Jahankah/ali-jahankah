@@ -11,7 +11,7 @@
   ________ 
   <a href="https://www.linkedin.com/in/the-only-original-ali-lol/"><img src="./img/3.png" width="50px"> </a></h1>
  
-<img src="https://i.pinimg.com/originals/df/e8/51/dfe8511c737918a38a78c9ab6741f801.gif" width="100%" />
+<img src=".img/iran.webp" width="100%" />
 
 
 
